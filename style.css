@@ -1,0 +1,141 @@
+body {
+    font-family: 'Major Mono Display', serif;
+    color: black(255, 255, 255);
+    font-weight:lighter;
+    background-color: white(0, 0%, 0%);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Major Mono Display', serif;
+    color: black;
+    font-size: 3vw;
+    margin: 0 0 0 0;
+    border: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+h2 {
+    font-family: 'Major Mono Display', serif;
+    color: grey;
+    font-size: 1vw;
+    margin-top: 90%;
+}
+
+h2:hover {
+    color: #0078d4;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.myNav:hover {
+    background-color: rgb(195, 195, 195);
+    font-size: 2vw;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.full-link 
+{
+    /* Make the link a block-level element */
+    display: block;
+    /* Set the link's dimensions to cover the parent */
+    width: 100%;
+    height: 100%;
+}
+
+.bio {
+    margin-top: 10rem;
+  }
+
+.grid-item {
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+.text {
+    font-size: 1vw;
+    font-weight: bold;
+    opacity: 1; 
+    text-align: center;
+}
+
+.photo {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.hidden {
+    display: none;
+}
+
+#description {
+    text-align: left;
+    text-justify: center;
+    animation: fadeIn 0.3s ease-in;
+}
+
+span {
+    font-size: 0.5vw;
+    text-align: center;
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0; /* Start opacity at 0 (completely transparent) */
+    }
+    to {
+        opacity: 1; /* End opacity at 1 (fully visible) */
+    }
+}
+
+.grid {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+
+@media screen and (max-width: 812px) {
+
+    .grid-item{
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+    
+    h1 {
+        margin-top: 6%;
+        font-size: 8vw;
+    }
+
+    h2 {
+        font-size: 6vw;
+    }
+
+    .myNav {
+        font-size: 3vw;
+    }
+
+    .myNav:hover{
+        background-color: rgb(195, 195, 195);
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    span {
+        font-size: 3vw;
+    }
+
+}
