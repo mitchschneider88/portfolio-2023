@@ -19,7 +19,7 @@ h2 {
     font-family: 'Major Mono Display', serif;
     color: grey;
     font-size: 1vw;
-    margin-top: 140%;
+    margin-top: 35%;
 }
 
 h2:hover {
@@ -102,6 +102,11 @@ span {
     margin-bottom: 3%;
     margin-right: 3%;
     margin-left: 3%;
+}
+
+.profilepic {
+    align-content: center;
+    margin-top: 5%;
 }
 
 
