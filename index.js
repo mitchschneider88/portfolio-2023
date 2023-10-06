@@ -28,7 +28,8 @@ const descriptions = [
     "kontakt programming for a sub bass sampled to sit perfectly in any arrangement or mix", // 8 lo
     "kontakt programming and sampling for a scoring tool created from a tape-machine-processed piano", // 9 ekotape
     "design & development of a max device that integrates seamlessly with directout's 'Buffer Loop Detection System' enabled hardware, enabling fully automatic redundant playback in high pressure environments", // 10 BLDS looper
-    "music director / sound design / programmer / keyboards" // 11 bbc
+    "music director / sound design / programmer / keyboards", // 11 bbc
+    "custom tilt eq dsp algorithm implentation for Audio Developers Conference 2023 mentorship program assignment"
 ];
 
 
