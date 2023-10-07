@@ -126,7 +126,11 @@ span {
     }
 
     h2 {
-        font-size: 6vw;
+        font-size: 4vw;
+    }
+
+    .profilepic {
+        margin-top: 1%;
     }
 
     .myNav {
@@ -137,6 +141,10 @@ span {
         background-color: rgb(195, 195, 195);
         font-style: italic;
         font-weight: bold;
+    }
+
+    .bio {
+        margin-top: 2rem;
     }
 
     span {
