@@ -30,7 +30,8 @@ const descriptions = [
     "design & development of a max device that integrates seamlessly with directout's 'Buffer Loop Detection System' & 'Enhanced Automatic Redundancy Switching', enabling stable and fully automatic playback redundancy in high pressure environments", // 10 BLDS looper
     "music director / sound design / programmer / keyboards", // 11 bbc
     "custom tilt eq dsp algorithm implentation for Audio Developers Conference 2023 mentorship program assignment", // 12 ADC assignment
-    "engineer / producer / sound design" // 13 secret.wav zeke
+    "engineer / producer / sound design", // 13 secret.wav zeke
+    "boiler room: additional sound design" // 14 boiler room
 ];
 
 
