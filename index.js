@@ -31,7 +31,9 @@ const descriptions = [
     "music director / sound design / programmer / keyboards", // 11 bbc
     "custom tilt eq dsp algorithm implentation for Audio Developers Conference 2023 mentorship program assignment", // 12 ADC assignment
     "engineer / producer / sound design", // 13 secret.wav zeke
-    "boiler room: additional sound design" // 14 boiler room
+    "boiler room: additional sound design", // 14 boiler room
+    "brat tour: music direction", // 15 brat
+    "sweat tour: music direction for Charli XCX & Troye Sivan" // 16 sweat
 ];
 
 
