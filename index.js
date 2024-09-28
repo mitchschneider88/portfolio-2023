@@ -33,7 +33,8 @@ const descriptions = [
     "engineer / producer / sound design", // 13 secret.wav zeke
     "boiler room: additional sound design", // 14 boiler room
     "brat tour: music direction", // 15 brat
-    "sweat tour: music direction for Charli XCX & Troye Sivan" // 16 sweat
+    "sweat tour: music direction for Charli XCX & Troye Sivan", // 16 sweat
+    "GCDS SS25: music arrangement & editing" // 17 GCDS
 ];
 
 
