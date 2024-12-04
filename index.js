@@ -34,7 +34,8 @@ const descriptions = [
     "boiler room: additional sound design", // 14 boiler room
     "brat tour: music direction", // 15 brat
     "sweat tour: music direction for Charli XCX & Troye Sivan", // 16 sweat
-    "GCDS SS25: music arrangement & editing" // 17 GCDS
+    "GCDS SS25: music arrangement & editing", // 17 GCDS
+    "music direction / broadcast mix supervision" // 18 SNL50
 ];
 
 
